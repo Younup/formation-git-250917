@@ -1,3 +1,4 @@
 MEMBRES DE L'EQUIPE
 ====================
 JEAN PIERRE, DevOps
+JEANNE DOE, DevOps
