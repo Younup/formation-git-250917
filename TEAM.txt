@@ -1,7 +1,4 @@
 MEMBRES DE L'EQUIPE
-<<<<<<< HEAD
 Hervé Fuzeaux Architecte
-=======
 Antoine-Ali Zarrouk Formateur
 David Danieau Chef de projet
->>>>>>> 81fefc5ef38284f29e58a4447a469c7a3158fbb5
